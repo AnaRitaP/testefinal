@@ -1,0 +1,45 @@
+@font-face {
+  font-family: LemonMilkbold;
+  src: url(fonts/LemonMilkbold.otf);
+}
+
+.rita{
+  background-color: ##ff704d;
+  background-attachment: fixed,						fixed;
+  background-image: url("images/overlay.png"), url("../../images/bg.jpg");
+  background-position: top left,					center center;
+  background-repeat: repeat,						none;
+  background-size: auto,						cover;
+}
+
+
+
+
+
+.teste-major{
+  color: #ff704d;
+  font-size: 45px;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 30px;
+  font-family: LemonMilkbold;
+}
+
+
+.teste2-major{
+  color: #ff704d;
+  font-size: 25px;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 30px;
+  font-family: LemonMilkbold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ff704d;
+  font-weight: 800;
+  letter-spacing: 0.075em;
+  line-height: 1em;
+  margin: 0 0 1em 0;
+  text-transform: uppercase;
+}
